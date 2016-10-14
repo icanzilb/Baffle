@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Baffle_Tests' do
+  pod 'Baffle', :path => '../'
+  
+  
+end

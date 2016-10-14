@@ -1,0 +1,6 @@
+framework module Baffle {
+  umbrella header "Baffle-umbrella.h"
+
+  export *
+  module * { export * }
+}

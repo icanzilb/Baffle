@@ -1,0 +1,16 @@
+PODS:
+  - Baffle (0.1.0)
+
+DEPENDENCIES:
+  - Baffle (from `../`)
+
+EXTERNAL SOURCES:
+  Baffle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Baffle: 09fb3ec785ce45a4df1bb598322dd38b38f270b7
+
+PODFILE CHECKSUM: 6d18e2de6a0ce658be365bfc6ce9729663226666
+
+COCOAPODS: 1.1.0.rc.3
