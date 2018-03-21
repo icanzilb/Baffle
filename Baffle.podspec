@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name             = 'Baffle'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of Baffle.'
+  s.version          = '0.1.7'
+  s.summary          = 'Tweets with an image are enjoying much higher % of engagements'
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Tweets with an image are enjoying much higher % of engagements - I've seen often people announce they pushed up a new version of their pod and attach a screenshot like this one
                        DESC
 
   s.homepage         = 'https://github.com/icanzilb/Baffle'
